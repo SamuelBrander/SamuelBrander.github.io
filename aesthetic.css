@@ -3,8 +3,13 @@
   src: url("fonts/arcadeclassic/ARCADECLASSIC.TTF");
 }
 
+@font-face {
+  font-family: Future;
+  src: url("fonts/future/OutrunFuture.otf");
+}
+
 body {
-  font-family: Arcade;
+  font-family: Future;
   background-image: url("images/sunset-g3d96f15bc_1920.jpg");
   background-size: cover;
   color: #fff;
