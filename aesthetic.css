@@ -11,7 +11,9 @@
 body {
   font-family: Future;
   background-image: url("images/sunset-g3d96f15bc_1920.jpg");
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #000;
   color: #fff;
 }
 
