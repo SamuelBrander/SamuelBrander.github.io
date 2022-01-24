@@ -1,5 +1,10 @@
+@font-face {
+  font-family: Arcade;
+  src: url("fonts/arcadeclassic/ARCADECLASSIC.TTF");
+}
+
 body {
-  font-family: monospace;
+  font-family: Arcade;
   background-image: url("images/sunset-g3d96f15bc_1920.jpg");
   background-size: cover;
   color: #fff;
@@ -12,6 +17,10 @@ h1 {
 
 p {
   font-size: 18pt;
+}
+
+a {
+  color: #fff;
 }
 
 .center {
