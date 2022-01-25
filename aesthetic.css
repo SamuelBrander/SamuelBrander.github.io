@@ -29,6 +29,7 @@ body {
   color: #f6f;
   text-align: center;
   padding: 5px 20px;
+  font-size: 20pt;
 }
 
 .topnav a:hover {
@@ -52,7 +53,6 @@ p {
 
 a {
   color: #fff;
-  font-size: 20pt;
 }
 
 .embeddedVideo {
@@ -63,8 +63,10 @@ a {
 
 .article {
   border: 5px solid purple;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 20px;
   width: 50%;
   margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
