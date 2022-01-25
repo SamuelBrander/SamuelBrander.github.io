@@ -18,6 +18,29 @@ body {
   color: #fff;
 }
 
+.topnav {
+  background-color: #707;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+
+.topnav a {
+  float: left;
+  color: #f6f;
+  text-align: center;
+  padding: 5px 20px;
+}
+
+.topnav a:hover {
+  background-color: #d0d;
+  color: #707;
+}
+
+.topnav a.active {
+  background-color: #d0d;
+  color: white;
+}
+
 h1 {
   text-align: center;
   font-size: 30pt;
@@ -29,6 +52,7 @@ p {
 
 a {
   color: #fff;
+  font-size: 20pt;
 }
 
 .embeddedYT {
