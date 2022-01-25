@@ -86,3 +86,10 @@ a {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.embeddedLolcat {
+  margin: auto;
+  width: 560px;
+  display: flex;
+  justify-content: center;
+}
