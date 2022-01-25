@@ -15,6 +15,7 @@ body {
   background-repeat: no-repeat;
   background-color: #000;
   background-attachment: fixed;
+  background-position: center;
   color: #fff;
 }
 
@@ -47,8 +48,23 @@ h1 {
   font-size: 30pt;
 }
 
+.landingPage {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  height: 50%;
+}
+
+.landingPage h1 {
+  text-align: center;
+  font-size: 50pt;
+}
+
 p {
   font-size: 18pt;
+}
+
+.landingPage p {
+  font-size: 36pt;
 }
 
 a {
