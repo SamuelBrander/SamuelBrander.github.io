@@ -72,6 +72,10 @@ a {
   font-size: 18pt;
 }
 
+.landingPage a {
+  font-size: 36pt;
+}
+
 .embeddedVideo {
   margin: auto;
   width: 560px;
