@@ -56,7 +56,8 @@ body {
 
 .topnav a:hover {
   background-color: #d0d;
-  color: #707;
+  color: white;
+  text-decoration: underline;
 }
 
 .topnav a.active {
