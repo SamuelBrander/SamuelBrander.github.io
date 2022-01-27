@@ -64,6 +64,16 @@ body {
   color: white;
 }
 
+.thinTextDec {
+  text-decoration-thickness: 1px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
 h1 {
   text-align: center;
   font-size: 45pt;
