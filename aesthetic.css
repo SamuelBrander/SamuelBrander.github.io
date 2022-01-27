@@ -27,7 +27,7 @@ body {
   border-bottom: 0.1px solid pink;
   border-right: 0.1px solid pink;
   border-left: 0.1px solid pink;
-  border-radius: 1px;
+  border-radius: 3px;
 }
 
 .topnav a {
@@ -84,20 +84,34 @@ a {
   font-size: 36pt;
 }
 
-.embeddedVideo {
-  margin: auto;
+.embeddedYT {
+  margin: 20px auto;
   width: 560px;
-  border: 3px solid purple;
+  height: 315px;
+  border: 5px solid purple;
+  border-radius: 5px;
+  padding: 0px;
+}
+
+.embeddedReddit {
+  margin: 20px auto;
+  width: 560px;
+  height: 630px;
+  border: 5px solid purple;
+  border-radius: 5px;
+  padding: 0px;
 }
 
 .article {
   border: 5px solid purple;
+  border-radius: 5px;
   background-color: rgba(0, 0, 0, 0.5);
   padding: 0px 40px 0px 40px;
-  width: 50%;
+  width: 70%;
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
+  box-sizing: border-box;
 }
 
 .article h1 {
