@@ -4,10 +4,9 @@
 <title>Scripts</title>
 <head>
   <link rel="stylesheet" href="aesthetic.css">
-  <script src="demo_script.js"></script>
 </head>
 
-<body>
+<body onload="update_clock()">
 
   <div class="topnav">
     <a href="vibe.html">V i b e</a>
@@ -18,7 +17,10 @@
     <a class="active" href="scripts.html">Scripts</a>
   </div>
   <h1>Le clock</h1>
-  <p id="clock">Henlo</p>
-  <button type="button" name="button" onclick="update_clock()">Click me</button>
+  <div class="widget">
+    <p id="clock">Clock</p>
+  </div>
+
+  <script src="demo_script.js"></script>
 
 </body>
