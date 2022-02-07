@@ -51,7 +51,7 @@ body {
   color: #f6f;
   text-align: center;
   padding: 5px 20px;
-  font-size: 27pt;
+  font-size: 18pt;
   text-decoration: none;
   border-right: 0.1px solid pink;
   border-radius: 1px;
@@ -84,7 +84,7 @@ ul {
 
 h1 {
   text-align: center;
-  font-size: 45pt;
+  font-size: 30pt;
 }
 
 .landingPage {
@@ -95,24 +95,24 @@ h1 {
 
 .landingPage h1 {
   text-align: center;
-  font-size: 72pt;
+  font-size: 54pt;
 }
 
 p {
-  font-size: 27pt;
+  font-size: 28pt;
 }
 
 .landingPage p {
-  font-size: 72pt;
+  font-size: 54pt;
 }
 
 a {
   color: #fff;
-  font-size: 27pt;
+  font-size: 18pt;
 }
 
 .landingPage a {
-  font-size: 72pt;
+  font-size: 54pt;
 }
 
 .embeddedYT {
@@ -170,5 +170,5 @@ a {
 }
 
 .widget p {
-  font-size: 90pt;
+  font-size: 60pt;
 }
